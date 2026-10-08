@@ -1,0 +1,42 @@
+{
+  "certificate": {
+    "title": "Certificate of Completion",
+    "course_name": "Advanced Backend Engineering with FastAPI",
+    "issuer_name": "Acme Academy",
+    "issue_date": "2026-10-08",
+    "description": "For completing all modules and the capstone project.",
+    "signatory_name": "Priya Raman",
+    "signatory_title": "Director of Learning"
+  },
+  "recipients": [
+    {
+      "name": "Ada Lovelace",
+      "email": "ada@example.com"
+    },
+    {
+      "name": "Alan Turing",
+      "email": "alan@example.com"
+    },
+    {
+      "name": "Grace Hopper",
+      "email": "grace@example.com"
+    },
+    {
+      "name": "José Müller",
+      "email": "jose@example.com"
+    },
+    {
+      "name": "",
+      "email": "missing-name@example.com"
+    },
+    {
+      "name": "Linus Torvalds",
+      "email": "not-an-email"
+    },
+    {
+      "name": "Ada Again",
+      "email": "ADA@example.com"
+    }
+  ],
+  "validation_mode": "partial"
+}
